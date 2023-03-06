@@ -30,6 +30,14 @@ Hello, my name is Ginny, ahihi.
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
 
+
+## Contact 
+
+- [x] Contact me for a comparable job seeker.
+	- facebook => https://www.fb.com/YGBrandMaker
+	- whatsapp =>https://api.whatsapp.com/send?phone=201030459067
+	- telegram =>https://t.me/YGBrandMaker
+	- linkedin =>https://www.linkedin.com/in/youssef-ghamry/
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 
@@ -80,7 +88,6 @@ Hello, my name is Ginny, ahihi.
 <img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
 <img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30" height="30" title="bootstrap"/>
 </div> 
 
 ## Skills
@@ -129,3 +136,6 @@ Hello, my name is Ginny, ahihi.
 [
 <br>
 <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/youssefghamry?date=01" width="600" /></a>
+
+
+
