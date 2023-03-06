@@ -10,21 +10,7 @@ Hello, my name is Ginny, ahihi.
     <img width="90%" src="./assets/yg.jpeg">
 </div>
 
-📖 Before starting college in August __2018__, I was, _by all means_, a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
 
-📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
-
-📖 Not until August __2021__ did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
-
-📖 I officially became a Software Engineer in August __2022__ after managing to _get out of_ college 3 months before that 🙏🏻
-
-📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
-
-📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
-
-<div align="center">
-    <img width="60%" src="./assets/quote2.jpeg">
-</div>
 
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
@@ -66,7 +52,10 @@ Hello, my name is Ginny, ahihi.
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 
 </div>
-
+<h3 align="center">Software and tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,jenkins,linux,vscode,idea,figma,cloudflare,androidstudio,pr,atom,github,githubactions" />
+</p>
 ## Future skills
 <div>
 <img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
@@ -139,3 +128,5 @@ Hello, my name is Ginny, ahihi.
 
 
 
+## Some online projects
+[My Portfolio](##)
