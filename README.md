@@ -35,6 +35,7 @@ Hello, my name is Ginny, ahihi.
 
 <div align="center"> 
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
     <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
@@ -55,7 +56,34 @@ Hello, my name is Ginny, ahihi.
     <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
     <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
+
 </div>
+<img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
+<img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
+<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
+<img src="https://www.melodev.link/icons/react-native.svg" width="30" height="30" title="react-native"/>
+<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="30" height="30" title="react-query"/>
+<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
+<img src="https://www.melodev.link/icons/database.svg" width="30" height="30" title="sql"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30" title="postgres"/>
+<img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
+<img src="https://www.melodev.link/icons/firebase.svg" width="30" height="30" title="firebase"/>
+<img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
+<img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
+
+## Skills
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![mariadb Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+
+![python Badge](https://img.shields.io/badge/Python-0A9EDC?style=flat-square&logo=Python&logoColor=white)
 
 ## 📊 Stats
 <!-- Profile views
@@ -84,6 +112,11 @@ Hello, my name is Ginny, ahihi.
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=youssefghamry&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
 
 
+<<<<<<< HEAD
+
+
+[
+=======
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
@@ -94,6 +127,6 @@ Hello, my name is Ginny, ahihi.
 ![python Badge](https://img.shields.io/badge/Python-0A9EDC?style=flat-square&logo=Python&logoColor=white)
 
 
+>>>>>>> be758b99819c2c5970c8b2a70dc2b84b3da3ca3a
 <br>
 <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/youssefghamry?date=01" width="600" /></a>
-
