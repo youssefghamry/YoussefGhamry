@@ -84,7 +84,6 @@ Hello, my name is Ginny, ahihi.
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=youssefghamry&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
 
 
-### [**블로그**](https://velog.io/@youssefghamry)
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
@@ -95,8 +94,6 @@ Hello, my name is Ginny, ahihi.
 ![python Badge](https://img.shields.io/badge/Python-0A9EDC?style=flat-square&logo=Python&logoColor=white)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youssefghamry)](https://solved.ac/youssefghamry)
 <br>
 <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/youssefghamry?date=01" width="600" /></a>
 
