@@ -55,6 +55,7 @@ Hello, my name is Ginny, ahihi.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,jenkins,linux,vscode,idea,figma,cloudflare,androidstudio,pr,atom,github,githubactions" />
 </p>
+
 ## Future skills
 <div>
 <img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
