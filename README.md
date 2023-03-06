@@ -59,12 +59,8 @@ Hello, my name is Ginny, ahihi.
 
 </div>
 
-## Skills
+## Future skills
 <div>
-<img src="https://www.melodev.link/icons/javascript.svg" width="30" height="30" title="javascript"/>
-<img src="https://www.melodev.link/icons/typescript.svg" width="30" height="30" title="typescript"/>
-<img src="https://www.melodev.link/icons/html5.svg" width="30" height="30" title="html"/>
-<img src="https://www.melodev.link/icons/css.svg" width="30" height="30" title="css"/>
 <img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
 <img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
@@ -85,7 +81,6 @@ Hello, my name is Ginny, ahihi.
 <img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30" height="30" title="bootstrap"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="30" height="30" title="tailwind"/>
 </div> 
 
 ## Skills
