@@ -58,6 +58,15 @@ Hello, my name is Ginny, ahihi.
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 
 </div>
+
+## Skills
+<div>
+<img src="https://www.melodev.link/icons/javascript.svg" width="30" height="30" title="javascript"/>
+<img src="https://www.melodev.link/icons/typescript.svg" width="30" height="30" title="typescript"/>
+<img src="https://www.melodev.link/icons/html5.svg" width="30" height="30" title="html"/>
+<img src="https://www.melodev.link/icons/css.svg" width="30" height="30" title="css"/>
+<img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
+<img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
 <img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
 <img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
 <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
@@ -66,10 +75,18 @@ Hello, my name is Ginny, ahihi.
 <img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
 <img src="https://www.melodev.link/icons/database.svg" width="30" height="30" title="sql"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30" title="postgres"/>
-<img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30" height="30" title="mysql"/>
+<img src="https://www.melodev.link/icons/mongodb.svg" width="30" height="30" title="mongodb"/>
+<img src="https://www.melodev.link/icons/aws.svg" width="30" height="30" title="aws"/>
+<img src="https://www.sitespect.com/wp-content/uploads/2019/05/logo_gcp_hexagon_rgb.png" width="30" height="30" title="google cloud platform"/>
+<img src="https://www.melodev.link/icons/vercel.svg" width="30" height="30" title="vercel"/>
 <img src="https://www.melodev.link/icons/firebase.svg" width="30" height="30" title="firebase"/>
 <img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
+<img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
 <img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="30" height="30" title="bootstrap"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="30" height="30" title="tailwind"/>
+</div> 
 
 ## Skills
 
@@ -112,21 +129,8 @@ Hello, my name is Ginny, ahihi.
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=youssefghamry&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
 
 
-<<<<<<< HEAD
 
 
 [
-=======
-
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![mariadb Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-
-![python Badge](https://img.shields.io/badge/Python-0A9EDC?style=flat-square&logo=Python&logoColor=white)
-
-
->>>>>>> be758b99819c2c5970c8b2a70dc2b84b3da3ca3a
 <br>
 <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/youssefghamry?date=01" width="600" /></a>
