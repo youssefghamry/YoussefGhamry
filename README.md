@@ -140,3 +140,80 @@ Hello, my name is Ginny, ahihi.
 [emart]	( https://github.com/youssefghamry/emart )			[Gamezone]	( https://github.com/youssefghamry/Gamezone )			[Hamela]	( https://github.com/youssefghamry/Hamela )
 [Enfold]	( https://github.com/youssefghamry/Enfold )			[Gardena]	( https://github.com/youssefghamry/Gardena )			[Hampton]	( https://github.com/youssefghamry/Hampton )
 									
+
+<table style="text-align: right;">
+  <tbody>
+     <tr>
+    <td>Jun. 2022 - Present</td>
+    <td>
+      <img style="border-radius:50px;" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1495816570/k7m0fi8709dla1kpaksh.png"  height="36" style="margin-top: 6px !important;" title="genesys"/>
+    </td>
+    <td>
+      Senior Software Engineer at Genesys
+    </td>
+  </tr>
+  <tr>
+    <td>Dec. 2021 - Jun. 2022</td>
+    <td>
+      <img style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFqTtPexKleeQ/company-logo_200_200/0/1631807512304?e=2147483647&v=beta&t=J3Hl6kLR1D0vLXPxrRIrjYf6fG_H2V2-lC4RBtbHZJI"  height="36" title="qgiv"/>
+    </td>
+    <td>
+      Frontend Engineer at QGiv
+    </td>
+  </tr>
+  <tr>
+    <td>Jun. 2020 - Dec.2021</td>
+    <td>
+      <img src="http://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/>
+    </td>
+    <td>
+      Software Engineer at Versátil
+    </td>  
+  </tr>
+   <tr>
+    <td>May 2019 - Dec. 2020</td>     
+    <td>
+      <img src="http://clinicalacos.com.br/assets/images/logo-lacos-menu-1-300x1290.png" height="40" title="clínica laços"/>
+    </td>
+    <td>
+      Web Developer at Clínica Laços
+  </tr> 
+   <tr>
+    <td>Jun. 2022 - Present</td>
+    <td>
+      <img style="border-radius:50px;" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1495816570/k7m0fi8709dla1kpaksh.png"  height="36" style="margin-top: 6px !important;" title="genesys"/>
+    </td>
+    <td>
+      Senior Software Engineer at Genesys
+    </td>
+  </tr>
+  <tr>
+    <td>Dec. 2021 - Jun. 2022</td>
+    <td>
+      <img style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFqTtPexKleeQ/company-logo_200_200/0/1631807512304?e=2147483647&v=beta&t=J3Hl6kLR1D0vLXPxrRIrjYf6fG_H2V2-lC4RBtbHZJI"  height="36" title="qgiv"/>
+    </td>
+    <td>
+      Frontend Engineer at QGiv
+    </td>
+  </tr>
+  <tr>
+    <td>Jun. 2020 - Dec.2021</td>
+    <td>
+      <img src="http://versatec.com.br/www/img/logo-versatil-ti.png" height="30" title="versatil"/>
+    </td>
+    <td>
+      Software Engineer at Versátil
+    </td>  
+  </tr>
+   <tr>
+    <td>May 2019 - Dec. 2020</td>     
+    <td>
+      <img src="http://clinicalacos.com.br/assets/images/logo-lacos-menu-1-300x1290.png" height="40" title="clínica laços"/>
+    </td>
+    <td>
+      Web Developer at Clínica Laços
+  </tr>   
+</tbody>
+
+
+</table>
