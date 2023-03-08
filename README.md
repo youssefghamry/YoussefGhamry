@@ -128,78 +128,73 @@ Hello, my name is Ginny, ahihi.
 
 
 
-## Some online projects <table style="text-align: right;">
-  <tbody>
- <tr>
- <td>
-	 [Agronix](https://github.com/youssefghamry/Agronix) 
-	 </td>
- <td>  [Alico](https://github.com/youssefghamry/Alico) </td>
- <td>  [Arter](https://github.com/youssefghamry/Arter) </td>
- <td>  [BildPress](https://github.com/youssefghamry/BildPress) </td>
- <td>  [Borrow](https://github.com/youssefghamry/Borrow) </td>
- <td>  [Clariwell](https://github.com/youssefghamry/Clariwell) </td>
- <td>  [CouponSeek](https://github.com/youssefghamry/CouponSeek) </td>
- <td>  [DiveIt](https://github.com/youssefghamry/DiveIt) </td>
- <td>  [emart](https://github.com/youssefghamry/emart) </td>
- <td>  [Enfold](https://github.com/youssefghamry/Enfold) </td>
- <td>  [Epron](https://github.com/youssefghamry/Epron) </td>
- </tr><tr><td>  [Exertio](https://github.com/youssefghamry/Exertio) </td>
- <td>  [Edumy](https://github.com/youssefghamry/Edumy) </td>
- <td>  [Financity](https://github.com/youssefghamry/Financity) </td>
- <td>  [Findgo](https://github.com/youssefghamry/Findgo) </td>
- <td>  [Fmwave](https://github.com/youssefghamry/Fmwave) </td>
- <td>  [FoodFruit](https://github.com/youssefghamry/Food-Fruit) </td>
- <td>  [Fundbux](https://github.com/youssefghamry/Fundbux) </td>
- <td>  [Gamezone](https://github.com/youssefghamry/Gamezone) </td>
- <td>  [Gardena](https://github.com/youssefghamry/Gardena) </td>
- <td>  [GoCargo](https://github.com/youssefghamry/GoCargo) </td>
- <td>  [GoStore](https://github.com/youssefghamry/GoStore) </td>
- </tr><tr><td>  [Gostudy](https://github.com/youssefghamry/Gostudy) </td>
- <td>  [GrandPrix](https://github.com/youssefghamry/GrandPrix) </td>
- <td>  [Greeny](https://github.com/youssefghamry/Greeny) </td>
- <td>  [Growth](https://github.com/youssefghamry/Growth) </td>
- <td>  [Gutentype](https://github.com/youssefghamry/Gutentype) </td>
- <td>  [HVillas](https://github.com/youssefghamry/HVillas) </td>
- <td>  [Hamela](https://github.com/youssefghamry/Hamela) </td>
- <td>  [Hampton](https://github.com/youssefghamry/Hampton) </td>
- <td>  [Hendon](https://github.com/youssefghamry/Hendon) </td>
- <td>  [HomeID](https://github.com/youssefghamry/HomeID) </td>
- </tr><tr><td>  [Hoshi](https://github.com/youssefghamry/Hoshi) </td>
- <td>  [Once](https://github.com/youssefghamry/Once) </td>
- <td>  [OneCommunity](https://github.com/youssefghamry/OneCommunity) </td>
- <td>  [Oxpitan](https://github.com/youssefghamry/Oxpitan) </td>
- <td>  [Picozo](https://github.com/youssefghamry/Picozo) </td>
- <td>  [Pinkmart](https://github.com/youssefghamry/Pinkmart) </td>
- <td>  [Pizza](https://github.com/youssefghamry/Pizza) </td>
- <td>  [PneuPress](https://github.com/youssefghamry/PneuPress) </td>
- <td>  [Prolancer](https://github.com/youssefghamry/Prolancer) </td>
- <td>  [RareRadio](https://github.com/youssefghamry/RareRadio) </td>
- <td>  [RealFactory](https://github.com/youssefghamry/RealFactory) </td>
- </tr><tr><td>  [RealHomes](https://github.com/youssefghamry/RealHomes) </td>
- <td>  [Reframe](https://github.com/youssefghamry/Reframe) </td>
- <td>  [REHub](https://github.com/youssefghamry/REHub) </td>
- <td>  [Reobiz](https://github.com/youssefghamry/Reobiz) </td>
- <td>  [RoyalEvent](https://github.com/youssefghamry/RoyalEvent) </td>
- <td>  [Ruki](https://github.com/youssefghamry/Ruki) </td>
- <td>  [RyanCV](https://github.com/youssefghamry/RyanCV) </td>
- <td>  [SaluteMedical](https://github.com/youssefghamry/SaluteMedical) </td>
- <td>  [Sanger](https://github.com/youssefghamry/Sanger) </td>
- <td>  [Savoy](https://github.com/youssefghamry/Savoy) </td>
- <td>  [Seocify](https://github.com/youssefghamry/Seocify) </td>
- </tr><tr><td>  [ShadePro](https://github.com/youssefghamry/ShadePro) </td>
- <td>  [Stardust](https://github.com/youssefghamry/Stardust) </td>
- <td>  [Starto](https://github.com/youssefghamry/Starto) </td>
- <td>  [StartupCompany](https://github.com/youssefghamry/StartupCompany) </td>
- <td>  [SweetDate](https://github.com/youssefghamry/SweetDate) </td>
- <td>  [Tediss](https://github.com/youssefghamry/Tediss) </td>
- <td>  [TheDocs](https://github.com/youssefghamry/TheDocs) </td>
- <td>  [Themebox](https://github.com/youssefghamry/Themebox) </td>
- <td>  [TheOutset](https://github.com/youssefghamry/TheOutset) </td>
- <td>  [TigerClaw](https://github.com/youssefghamry/TigerClaw) </td>
- <td>  [Timber](https://github.com/youssefghamry/Timber) </td>
- <td>  [TownHub](https://github.com/youssefghamry/TownHub) </td>
- <td>  [Triply](https://github.com/youssefghamry/Triply) </td>
-</tr>
-</tbody>
-</table>
+## Some online projects
+
+
+[Agronix](https://github.com/youssefghamry/Agronix)
+[Alico](https://github.com/youssefghamry/Alico)
+[Arter](https://github.com/youssefghamry/Arter)
+[BildPress](https://github.com/youssefghamry/BildPress)
+[Borrow](https://github.com/youssefghamry/Borrow)
+[Clariwell](https://github.com/youssefghamry/Clariwell)
+[CouponSeek](https://github.com/youssefghamry/CouponSeek)
+[DiveIt](https://github.com/youssefghamry/DiveIt)
+[emart](https://github.com/youssefghamry/emart)
+[Enfold](https://github.com/youssefghamry/Enfold)
+[Epron](https://github.com/youssefghamry/Epron)
+[Exertio](https://github.com/youssefghamry/Exertio
+[Edumy](https://github.com/youssefghamry/Edumy
+[Financity](https://github.com/youssefghamry/Financity)
+[Findgo](https://github.com/youssefghamry/Findgo)
+[Fmwave](https://github.com/youssefghamry/Fmwave)
+[FoodFruit](https://github.com/youssefghamry/Food-Fruit)
+[Fundbux](https://github.com/youssefghamry/Fundbux)
+[Gamezone](https://github.com/youssefghamry/Gamezone)
+[Gardena](https://github.com/youssefghamry/Gardena)
+[GoCargo](https://github.com/youssefghamry/GoCargo)
+[GoStore](https://github.com/youssefghamry/GoStore)
+[Gostudy](https://github.com/youssefghamry/Gostudy)
+[GrandPrix](https://github.com/youssefghamry/GrandPrix)
+[Greeny](https://github.com/youssefghamry/Greeny)
+[Growth](https://github.com/youssefghamry/Growth)
+[Gutentype](https://github.com/youssefghamry/Gutentype)
+[HVillas](https://github.com/youssefghamry/HVillas)
+[Hamela](https://github.com/youssefghamry/Hamela)
+[Hampton](https://github.com/youssefghamry/Hampton)
+[Hendon](https://github.com/youssefghamry/Hendon)
+[HomeID](https://github.com/youssefghamry/HomeID)
+[Hoshi](https://github.com/youssefghamry/Hoshi)
+[Once](https://github.com/youssefghamry/Once)
+[OneCommunity](https://github.com/youssefghamry/OneCommunity)
+[Oxpitan](https://github.com/youssefghamry/Oxpitan)
+[Picozo](https://github.com/youssefghamry/Picozo)
+[Pinkmart](https://github.com/youssefghamry/Pinkmart)
+[Pizza](https://github.com/youssefghamry/Pizza)
+[PneuPress](https://github.com/youssefghamry/PneuPress)
+[Prolancer](https://github.com/youssefghamry/Prolancer)
+[RareRadio](https://github.com/youssefghamry/RareRadio
+[RealFactory](https://github.com/youssefghamry/RealFactory)
+[RealHomes](https://github.com/youssefghamry/RealHomes)
+[Reframe](https://github.com/youssefghamry/Reframe)
+[REHub](https://github.com/youssefghamry/REHub)
+[Reobiz](https://github.com/youssefghamry/Reobiz)
+[RoyalEvent](https://github.com/youssefghamry/RoyalEvent)
+[Ruki](https://github.com/youssefghamry/Ruki)
+[RyanCV](https://github.com/youssefghamry/RyanCV)
+[SaluteMedical](https://github.com/youssefghamry/SaluteMedical)
+[Sanger](https://github.com/youssefghamry/Sanger)
+[Savoy](https://github.com/youssefghamry/Savoy)
+[Seocify](https://github.com/youssefghamry/Seocify)
+[ShadePro](https://github.com/youssefghamry/ShadePro)
+[Stardust](https://github.com/youssefghamry/Stardust)
+[Starto](https://github.com/youssefghamry/Starto)
+[StartupCompany](https://github.com/youssefghamry/StartupCompany)
+[SweetDate](https://github.com/youssefghamry/SweetDate)
+[Tediss](https://github.com/youssefghamry/Tediss)
+[TheDocs](https://github.com/youssefghamry/TheDocs)
+[Themebox](https://github.com/youssefghamry/Themebox)
+[TheOutset](https://github.com/youssefghamry/TheOutset)
+[TigerClaw](https://github.com/youssefghamry/TigerClaw)
+[Timber](https://github.com/youssefghamry/Timber)
+[TownHub](https://github.com/youssefghamry/TownHub)
+[Triply](https://github.com/youssefghamry/Triply)
