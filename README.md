@@ -131,7 +131,9 @@ Hello, my name is Ginny, ahihi.
 ## Some online projects <table style="text-align: right;">
   <tbody>
  <tr>
- <td>  [Agronix](https://github.com/youssefghamry/Agronix) </td>
+ <td>
+	 [Agronix](https://github.com/youssefghamry/Agronix) 
+	 </td>
  <td>  [Alico](https://github.com/youssefghamry/Alico) </td>
  <td>  [Arter](https://github.com/youssefghamry/Arter) </td>
  <td>  [BildPress](https://github.com/youssefghamry/BildPress) </td>
