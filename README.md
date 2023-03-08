@@ -129,9 +129,7 @@ Hello, my name is Ginny, ahihi.
 
 
 ## Some online projects
-
 [Agronix](https://github.com/youssefghamry/Agronix)
-
 [Alico](https://github.com/youssefghamry/Alico)
 [Arter](https://github.com/youssefghamry/Arter)
 [BildPress](https://github.com/youssefghamry/BildPress)
@@ -142,8 +140,8 @@ Hello, my name is Ginny, ahihi.
 [emart](https://github.com/youssefghamry/emart)
 [Enfold](https://github.com/youssefghamry/Enfold)
 [Epron](https://github.com/youssefghamry/Epron)
-[Exertio](https://github.com/youssefghamry/Exertio
-[Edumy](https://github.com/youssefghamry/Edumy
+[Exertio](https://github.com/youssefghamry/Exertio)
+[Edumy](https://github.com/youssefghamry/Edumy)
 [Financity](https://github.com/youssefghamry/Financity)
 [Findgo](https://github.com/youssefghamry/Findgo)
 [Fmwave](https://github.com/youssefghamry/Fmwave)
@@ -169,19 +167,19 @@ Hello, my name is Ginny, ahihi.
 [Oxpitan](https://github.com/youssefghamry/Oxpitan)
 [Picozo](https://github.com/youssefghamry/Picozo)
 [Pinkmart](https://github.com/youssefghamry/Pinkmart)
-[Pizza](https://github.com/youssefghamry/Pizza
+[Pizza](https://github.com/youssefghamry/Pizza)
 [PneuPress](https://github.com/youssefghamry/PneuPress)
 [Prolancer](https://github.com/youssefghamry/Prolancer)
-[RareRadio](https://github.com/youssefghamry/RareRadio
-[RealFactory](https://github.com/youssefghamry/RealFactory
-[RealHomes](https://github.com/youssefghamry/RealHomes
-[Reframe](https://github.com/youssefghamry/Reframe
-[REHub](https://github.com/youssefghamry/REHub
-[Reobiz](https://github.com/youssefghamry/Reobiz
-[RoyalEvent](https://github.com/youssefghamry/RoyalEvent
-[Ruki](https://github.com/youssefghamry/Ruki
-[RyanCV](https://github.com/youssefghamry/RyanCV
-[SaluteMedical](https://github.com/youssefghamry/SaluteMedical
+[RareRadio](https://github.com/youssefghamry/RareRadio)
+[RealFactory](https://github.com/youssefghamry/RealFactory)
+[RealHomes](https://github.com/youssefghamry/RealHomes)
+[Reframe](https://github.com/youssefghamry/Reframe)
+[REHub](https://github.com/youssefghamry/REHub)
+[Reobiz](https://github.com/youssefghamry/Reobiz)
+[RoyalEvent](https://github.com/youssefghamry/RoyalEvent)
+[Ruki](https://github.com/youssefghamry/Ruki)
+[RyanCV](https://github.com/youssefghamry/RyanCV)
+[SaluteMedical](https://github.com/youssefghamry/SaluteMedical)
 [Sanger](https://github.com/youssefghamry/Sanger)
 [Savoy](https://github.com/youssefghamry/Savoy)
 [Seocify](https://github.com/youssefghamry/Seocify)
