@@ -130,7 +130,6 @@ Hello, my name is Ginny, ahihi.
 
 ## Some online projects
 
-
 [Agronix](https://github.com/youssefghamry/Agronix)
 [Alico](https://github.com/youssefghamry/Alico)
 [Arter](https://github.com/youssefghamry/Arter)
@@ -142,8 +141,8 @@ Hello, my name is Ginny, ahihi.
 [emart](https://github.com/youssefghamry/emart)
 [Enfold](https://github.com/youssefghamry/Enfold)
 [Epron](https://github.com/youssefghamry/Epron)
-[Exertio](https://github.com/youssefghamry/Exertio
-[Edumy](https://github.com/youssefghamry/Edumy
+[Exertio](https://github.com/youssefghamry/Exertio)
+[Edumy](https://github.com/youssefghamry/Edumy)
 [Financity](https://github.com/youssefghamry/Financity)
 [Findgo](https://github.com/youssefghamry/Findgo)
 [Fmwave](https://github.com/youssefghamry/Fmwave)
@@ -172,7 +171,7 @@ Hello, my name is Ginny, ahihi.
 [Pizza](https://github.com/youssefghamry/Pizza)
 [PneuPress](https://github.com/youssefghamry/PneuPress)
 [Prolancer](https://github.com/youssefghamry/Prolancer)
-[RareRadio](https://github.com/youssefghamry/RareRadio
+[RareRadio](https://github.com/youssefghamry/RareRadio)
 [RealFactory](https://github.com/youssefghamry/RealFactory)
 [RealHomes](https://github.com/youssefghamry/RealHomes)
 [Reframe](https://github.com/youssefghamry/Reframe)
