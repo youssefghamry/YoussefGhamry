@@ -128,7 +128,7 @@ Hello, my name is Ginny, ahihi.
 
 
 
-## Some online projects
+## Some wordpress projects
 
 [Agronix](https://github.com/youssefghamry/Agronix)
 [Alico](https://github.com/youssefghamry/Alico)
