@@ -5,10 +5,56 @@ Hello, my name is Ginny, ahihi.
 # Hi there! Welcome to my GitHub Profile! ✨
 
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is youssef ghamry, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+I am eager to work in a dynamic, stimulating, and demanding workplace that will provide me chances to put my knowledge and talents to use. My current position involves a change in both my profession and lifestyle. I welcome new challenges and am always eager to learn more about the things I do or impart what I have learned. A joyful heart makes me a better person, a better listener, and a better friend. It will undoubtedly aid me in successfully developing both my personal growth and that of your business.
 
-<div align="center">
-    <img width="90%" src="./assets/yg.jpeg">
-</div>
+I have more than 3 years of expertise as a web programmer.
+
+Languages used in website development and design
+•	HTML / CSS 
+•	Vue.js/NodeJS / React JS/ JS
+•	 Laravel / Bootstrap / jQuery
+•	php / Sql /MySQL
+
+Site construction and design tools include:
+•	WordPress
+•	Joomla
+•	Magento
+•	OpenCart
+•	Illustrator
+•	 Photoshop
+
+Services:
+• Website design
+• Website development
+• WordPress development
+• Magento development
+• OpenCart development
+• DUBAL development
+
+	Academic degree: Bachelor of Information Systems 
+
+
+Business details
+
+Ultimate Developer Roles and Responsibilities
+• Select web page design and structure
+• Develop features to improve the user experience
+• Balance functional and aesthetic design.•  Make sure web design is capable of using a smartphone
+• Create a reusable code for future use
+• Make sure web pages are improved for the best speed and scalability
+•  Employ a variety of coding languages to design web pagesThe skills requirements
+
+•  Get a degree in computer science or a similar field
+•  Master coding languages such as  HTML,    CSS,  JavaScript and printing,
+• Experience with preset CSS  processors 
+• Experience with front end frames (corner)
+• Experience in RESTFUL  services and APIs 
+•  Understand the principles of improving search engines
+• Experience with GitHub systems • Have excellent problem solving skills
+• Master communication with team members, presidents and customers
+• Enjoy good skills in dealing with others
+
+
 
 
 
