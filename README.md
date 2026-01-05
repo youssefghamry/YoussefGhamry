@@ -178,7 +178,6 @@ I'm passionate about creating beautiful, functional, and user-friendly web exper
 
 </div>
 ## 🛠 Languages & Tools
-📖 Exploring and working across a wide spectrum of technologies
 
 <div align="center">
 
