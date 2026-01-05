@@ -1,180 +1,174 @@
-# 👋 Hello! I'm Youssef Ghamry
-### **Frontend Developer** | 6+ Years Experience | Web Enthusiast
+ظبط هو دلوقتي فلوستاك وب خبرة تزيد عن 6 سنين <!--
+Hello, my name is Ginny, ahihi.
+-->
 
-I'm passionate about creating beautiful, functional, and user-friendly web experiences. With over 6 years in web development, I specialize in modern frontend technologies and love turning complex problems into simple, elegant solutions.
+# Hi there! Welcome to my GitHub Profile! ✨
 
----
+## <img src="./assets/waving-hand.webp" width="4%"> My name is youssef ghamry, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
-## 📊 GitHub Stats
+- I am eager to work in a dynamic, stimulating, and demanding workplace that will provide me chances to put my knowledge and talents to use. My current position involves a change in both my profession and lifestyle. I welcome new challenges and am always eager to learn more about the things I do or impart what I have learned. A joyful heart makes me a better person, a better listener, and a better friend. It will undoubtedly aid me in successfully developing both my personal growth and that of your business.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefghamry&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefghamry&layout=compact&theme=onedark&hide_border=true" />
+
+- Languages used in website development and design
+- [x]  HTML / CSS 
+- [x]  Vue.js/NodeJS / React JS/ JS
+- [x]   Laravel / Bootstrap / jQuery
+- [x]  php / Sql /MySQL
+
+- Site construction and design tools include:
+•	WordPress
+- [x]  	Joomla
+- [x]  	Magento
+- [x]  	OpenCart
+- [x]  	Illustrator
+- [x]  	 Photoshop
+
+- Services:
+- [x]   Website design
+- [x]  Website development
+- [x]  WordPress development
+- [x]  Magento development
+- [x]   OpenCart development
+- [x]  DUBAL development
+
+	Academic degree: Bachelor of Information Systems 
+
+
+- Business details
+
+- Ultimate Developer Roles and Responsibilities
+- [x]   Select web page design and structure
+- [x]   Develop features to improve the user experience
+- [x]   Balance functional and aesthetic design.
+- [x]    Make sure web design is capable of using a smartphone
+- [x]   Create a reusable code for future use
+- [x]   Make sure web pages are improved for the best speed and scalability
+- [x]    Employ a variety of coding languages to design web pagesThe skills requirements
+
+- [x]    Get a degree in computer science or a similar field
+- [x]    Master coding languages such as  HTML,    CSS,  JavaScript and printing,
+- [x]   Experience with preset CSS  processors 
+- [x]   Experience with front end frames (corner)
+- [x]   Experience in RESTFUL  services and APIs 
+- [x]    Understand the principles of improving search engines
+- [x]   Experience with GitHub systems - [x]   Have excellent problem solving skills
+- [x]   Master communication with team members, presidents and customers
+- [x]   Enjoy good skills in dealing with others
+
+
+
+
+
+<div>
+  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefghamry&theme=onedark&hide_border=true" />
-</div>
 
----
+## Contact 
 
-## 🛠️ **Technical Skills**
+- [x] Contact me for a comparable job seeker.
+	- facebook => https://www.fb.com/YGBrandMaker
+	- whatsapp =>https://api.whatsapp.com/send?phone=201030459067
+	- telegram =>https://t.me/YGBrandMaker
+	- linkedin =>https://www.linkedin.com/in/youssef-ghamry/
+## 🛠 Languages and Tools
+📖 I have been learning and exploring these following tools and languages
 
-### **🚀 Frontend Development**
-| Category | Technologies |
-|----------|--------------|
-| **Core** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
-| **Frameworks** | React.js, Vue.js, Next.js, jQuery |
-| **CSS Tools** | SASS/SCSS, Tailwind CSS, Bootstrap, Styled Components, CSS Modules |
-| **State Management** | Redux, Vuex, Context API, Zustand, Pinia |
-| **Testing** | Jest, React Testing Library, Cypress, Playwright |
-| **Build Tools** | Webpack, Vite, npm, Yarn, pnpm |
-
-### **🎨 Design & UI/UX**
-| Category | Tools |
-|----------|-------|
-| **Design Tools** | Figma, Adobe Photoshop, Illustrator, Adobe XD |
-| **UI Libraries** | Material-UI, Ant Design, Chakra UI, Vuetify, Element Plus |
-| **Animation** | GSAP, Framer Motion, CSS Animations |
-
-### **🔧 Development & Tools**
-| Category | Tools |
-|----------|-------|
-| **Version Control** | Git, GitHub, GitLab, Bitbucket |
-| **IDEs/Editors** | VS Code, WebStorm, Sublime Text |
-| **Package Managers** | npm, Yarn, pnpm |
-| **API Tools** | REST APIs, GraphQL (Apollo), Axios, Fetch API |
-| **DevOps** | Docker, Jenkins, GitHub Actions, Netlify, Vercel |
-
-### **📱 Responsive & Mobile**
-| Category | Skills |
-|----------|--------|
-| **Responsive Design** | Mobile-first, Flexbox, CSS Grid, Media Queries |
-| **PWA** | Service Workers, Web App Manifest, Offline Support |
-| **Mobile Frameworks** | React Native, Ionic, Cordova |
-
-### **🎯 Performance & Optimization**
-| Category | Techniques |
-|----------|-----------|
-| **Performance** | Code Splitting, Lazy Loading, Image Optimization, Caching |
-| **SEO** | Meta Tags, Structured Data, Sitemaps, Core Web Vitals |
-| **Security** | XSS Prevention, CSRF Protection, HTTPS, JWT |
-
-### **🌍 Internationalization**
-| Category | Tools |
-|----------|-------|
-| **i18n** | react-i18next, vue-i18n, Format.js |
-
----
-
-## 📁 **Project Categories**
-
-### **💼 Professional Projects**
-- **E-commerce Platforms** - Magento, OpenCart, WooCommerce
-- **CMS Development** - WordPress, Joomla, Custom CMS
-- **Enterprise Applications** - React/Vue based admin panels
-- **Landing Pages** - High-conversion marketing pages
-
-### **🎨 Personal Projects**
-- **UI Component Libraries** - Reusable component systems
-- **Web Applications** - Full-stack applications with modern frameworks
-- **Portfolio Websites** - Creative and responsive designs
-- **Open Source Contributions** - Community projects and tools
-
----
-
-## 🏆 **Key Achievements**
-
-### **Experience Highlights**
-- ✅ **6+ years** of professional web development experience
-- ✅ **50+ projects** delivered across various industries
-- ✅ **Full project lifecycle** involvement from concept to deployment
-- ✅ **Mentored junior developers** and led development teams
-- ✅ **Improved performance** by 40%+ on multiple projects
-- ✅ **Cross-browser compatibility** and responsive design expertise
-
-### **Specializations**
-- 🔹 **Frontend Architecture** - Scalable and maintainable codebases
-- 🔹 **User Experience** - Intuitive and engaging interfaces
-- 🔹 **Performance Optimization** - Fast loading and smooth interactions
-- 🔹 **Code Quality** - Clean, documented, and testable code
-- 🔹 **Team Collaboration** - Effective communication and project management
-
----
-
-## 📚 **Currently Learning**
-- **WebAssembly** - High-performance web applications
-- **Micro Frontends** - Scalable architecture patterns
-- **Three.js** - 3D web graphics and animations
-- **Advanced TypeScript** - Type safety and advanced patterns
-- **Edge Computing** - Cloudflare Workers, Edge functions
-
----
-
-## 🏗️ **Development Philosophy**
-
-### **Core Principles**
-1. **Clean Code** - Readable, maintainable, and well-documented
-2. **User-First** - Intuitive interfaces with excellent UX
-3. **Performance** - Fast loading and smooth interactions
-4. **Accessibility** - Inclusive design for all users
-5. **Responsive** - Seamless experience across all devices
-
-### **Workflow**
-- **Planning** - Requirement analysis and technical planning
-- **Development** - Agile methodology with iterative improvements
-- **Testing** - Comprehensive testing at all levels
-- **Deployment** - CI/CD pipelines for smooth releases
-- **Maintenance** - Ongoing support and optimization
-
----
-
-## 📞 **Contact & Connect**
-
-### **Professional Networks**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ghamry/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssefghamry)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
-### **Direct Contact**
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201030459067)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YGBrandMaker)
-
-### **Social Media**
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.fb.com/YGBrandMaker)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
----
-
-## 🎯 **Availability**
-
-### **Open To**
-- **Full-time Positions** - Senior Frontend Developer roles
-- **Contract Work** - Project-based development
-- **Consulting** - Technical guidance and architecture
-- **Mentorship** - Junior developer coaching
-
-### **Preferences**
-- **Remote Work** - Fully remote or hybrid positions
-- **Challenging Projects** - Complex problem-solving opportunities
-- **Tech-forward Companies** - Modern stack and progressive culture
-- **Team Collaboration** - Supportive and communicative environments
-
----
-
-## 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  
-### **Let's Build Something Amazing Together!** 🚀
-
-![Visitors](https://komarev.com/ghpvc/?username=youssefghamry&color=blueviolet&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/youssefghamry?label=Follow&style=social)
+<div align="center"> 
+    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
+    <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
+    <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
+    <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
+    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
+    <code><a href="https://developer.apple.com/swift/" title="Swift" target="_blank"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/></a></code>
+    <code><a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/></a></code>
+    <code><a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="dart" width="40" height="40"/></a></code>
+    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
+    <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
+    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
+    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
+    <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
+    <code><a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img src="https://www.adroitlogic.com/static/assets/images/icons/spring-boot.svg" alt="springboot" width="40" height="40"/></a></code>
+    <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
+    <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
+    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 
 </div>
+<h3 align="center">Software and tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,jenkins,linux,vscode,idea,figma,cloudflare,androidstudio,pr,atom,github,githubactions" />
+</p>
+
+## Future skills
+<div>
+<img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
+<img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
+<img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
+<img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
+<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
+<img src="https://www.melodev.link/icons/react-native.svg" width="30" height="30" title="react-native"/>
+<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="30" height="30" title="react-query"/>
+<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
+<img src="https://www.melodev.link/icons/database.svg" width="30" height="30" title="sql"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30" title="postgres"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30" height="30" title="mysql"/>
+<img src="https://www.melodev.link/icons/mongodb.svg" width="30" height="30" title="mongodb"/>
+<img src="https://www.melodev.link/icons/aws.svg" width="30" height="30" title="aws"/>
+<img src="https://www.sitespect.com/wp-content/uploads/2019/05/logo_gcp_hexagon_rgb.png" width="30" height="30" title="google cloud platform"/>
+<img src="https://www.melodev.link/icons/vercel.svg" width="30" height="30" title="vercel"/>
+<img src="https://www.melodev.link/icons/firebase.svg" width="30" height="30" title="firebase"/>
+<img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
+<img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
+<img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
+</div> 
+
+## Skills
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![mariadb Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+
+![python Badge](https://img.shields.io/badge/Python-0A9EDC?style=flat-square&logo=Python&logoColor=white)
+
+## 📊 Stats
+<!-- Profile views
+<p> <img src="https://komarev.com/ghpvc/?username=youssefghamry" alt="youssefghamry" /> </p> -->
+
+<!-- Profile Visitors -->
+![](https://visitor-badge.laobi.icu/badge?page_id=youssefghamry.youssefghamry)
+
+<!-- LeetCode Stats Card -->
+<!-- <p align="center">
+  <a href="https://leetcode.com/youssefghamry" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=youssefghamry&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+  </a>
+</p> -->
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=youssefghamry&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefghamry&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefghamry&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=youssefghamry&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
+
+
+
+
+[
+<br>
+<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/youssefghamry?date=01" width="600" /></a>
