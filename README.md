@@ -8,7 +8,6 @@ Hello, my name is Ginny, ahihi.
 
 - I am eager to work in a dynamic, stimulating, and demanding workplace that will provide me chances to put my knowledge and talents to use. My current position involves a change in both my profession and lifestyle. I welcome new challenges and am always eager to learn more about the things I do or impart what I have learned. A joyful heart makes me a better person, a better listener, and a better friend. It will undoubtedly aid me in successfully developing both my personal growth and that of your business.
 
-- I have more than 3 years of expertise as a web programmer.
 
 - Languages used in website development and design
 - [x]  HTML / CSS 
