@@ -1,76 +1,133 @@
-ظبط هو دلوقتي فلوستاك وب خبرة تزيد عن 6 سنين <!--
-Hello, my name is Ginny, ahihi.
--->
+# 👋 Hello! I'm Youssef Ghamry
+### **Frontend Developer** | 6+ Years Experience | Web Enthusiast
 
-# Hi there! Welcome to my GitHub Profile! ✨
+I'm passionate about creating beautiful, functional, and user-friendly web experiences. With over 6 years in web development, I specialize in modern frontend technologies and love turning complex problems into simple, elegant solutions.
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is youssef ghamry, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+---
 
-- I am eager to work in a dynamic, stimulating, and demanding workplace that will provide me chances to put my knowledge and talents to use. My current position involves a change in both my profession and lifestyle. I welcome new challenges and am always eager to learn more about the things I do or impart what I have learned. A joyful heart makes me a better person, a better listener, and a better friend. It will undoubtedly aid me in successfully developing both my personal growth and that of your business.
+## 📊 GitHub Stats
 
-
-- Languages used in website development and design
-- [x]  HTML / CSS 
-- [x]  Vue.js/NodeJS / React JS/ JS
-- [x]   Laravel / Bootstrap / jQuery
-- [x]  php / Sql /MySQL
-
-- Site construction and design tools include:
-•	WordPress
-- [x]  	Joomla
-- [x]  	Magento
-- [x]  	OpenCart
-- [x]  	Illustrator
-- [x]  	 Photoshop
-
-- Services:
-- [x]   Website design
-- [x]  Website development
-- [x]  WordPress development
-- [x]  Magento development
-- [x]   OpenCart development
-- [x]  DUBAL development
-
-	Academic degree: Bachelor of Information Systems 
-
-
-- Business details
-
-- Ultimate Developer Roles and Responsibilities
-- [x]   Select web page design and structure
-- [x]   Develop features to improve the user experience
-- [x]   Balance functional and aesthetic design.
-- [x]    Make sure web design is capable of using a smartphone
-- [x]   Create a reusable code for future use
-- [x]   Make sure web pages are improved for the best speed and scalability
-- [x]    Employ a variety of coding languages to design web pagesThe skills requirements
-
-- [x]    Get a degree in computer science or a similar field
-- [x]    Master coding languages such as  HTML,    CSS,  JavaScript and printing,
-- [x]   Experience with preset CSS  processors 
-- [x]   Experience with front end frames (corner)
-- [x]   Experience in RESTFUL  services and APIs 
-- [x]    Understand the principles of improving search engines
-- [x]   Experience with GitHub systems - [x]   Have excellent problem solving skills
-- [x]   Master communication with team members, presidents and customers
-- [x]   Enjoy good skills in dealing with others
-
-
-
-
-
-<div>
-  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefghamry&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefghamry&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefghamry&theme=onedark&hide_border=true" />
+</div>
 
-## Contact 
+---
 
-- [x] Contact me for a comparable job seeker.
-	- facebook => https://www.fb.com/YGBrandMaker
-	- whatsapp =>https://api.whatsapp.com/send?phone=201030459067
-	- telegram =>https://t.me/YGBrandMaker
-	- linkedin =>https://www.linkedin.com/in/youssef-ghamry/
+## 🛠️ **Technical Skills**
+
+### **🚀 Frontend Development**
+| Category | Technologies |
+|----------|--------------|
+| **Core** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
+| **Frameworks** | React.js, Vue.js, Next.js, jQuery |
+| **CSS Tools** | SASS/SCSS, Tailwind CSS, Bootstrap, Styled Components, CSS Modules |
+| **State Management** | Redux, Vuex, Context API, Zustand, Pinia |
+| **Testing** | Jest, React Testing Library, Cypress, Playwright |
+| **Build Tools** | Webpack, Vite, npm, Yarn, pnpm |
+
+### **🎨 Design & UI/UX**
+| Category | Tools |
+|----------|-------|
+| **Design Tools** | Figma, Adobe Photoshop, Illustrator, Adobe XD |
+| **UI Libraries** | Material-UI, Ant Design, Chakra UI, Vuetify, Element Plus |
+| **Animation** | GSAP, Framer Motion, CSS Animations |
+
+### **🔧 Development & Tools**
+| Category | Tools |
+|----------|-------|
+| **Version Control** | Git, GitHub, GitLab, Bitbucket |
+| **IDEs/Editors** | VS Code, WebStorm, Sublime Text |
+| **Package Managers** | npm, Yarn, pnpm |
+| **API Tools** | REST APIs, GraphQL (Apollo), Axios, Fetch API |
+| **DevOps** | Docker, Jenkins, GitHub Actions, Netlify, Vercel |
+
+### **📱 Responsive & Mobile**
+| Category | Skills |
+|----------|--------|
+| **Responsive Design** | Mobile-first, Flexbox, CSS Grid, Media Queries |
+| **PWA** | Service Workers, Web App Manifest, Offline Support |
+| **Mobile Frameworks** | React Native, Ionic, Cordova |
+
+### **🎯 Performance & Optimization**
+| Category | Techniques |
+|----------|-----------|
+| **Performance** | Code Splitting, Lazy Loading, Image Optimization, Caching |
+| **SEO** | Meta Tags, Structured Data, Sitemaps, Core Web Vitals |
+| **Security** | XSS Prevention, CSRF Protection, HTTPS, JWT |
+
+### **🌍 Internationalization**
+| Category | Tools |
+|----------|-------|
+| **i18n** | react-i18next, vue-i18n, Format.js |
+
+---
+
+## 📁 **Project Categories**
+
+### **💼 Professional Projects**
+- **E-commerce Platforms** - Magento, OpenCart, WooCommerce
+- **CMS Development** - WordPress, Joomla, Custom CMS
+- **Enterprise Applications** - React/Vue based admin panels
+- **Landing Pages** - High-conversion marketing pages
+
+### **🎨 Personal Projects**
+- **UI Component Libraries** - Reusable component systems
+- **Web Applications** - Full-stack applications with modern frameworks
+- **Portfolio Websites** - Creative and responsive designs
+- **Open Source Contributions** - Community projects and tools
+
+---
+
+## 🏆 **Key Achievements**
+
+### **Experience Highlights**
+- ✅ **6+ years** of professional web development experience
+- ✅ **50+ projects** delivered across various industries
+- ✅ **Full project lifecycle** involvement from concept to deployment
+- ✅ **Mentored junior developers** and led development teams
+- ✅ **Improved performance** by 40%+ on multiple projects
+- ✅ **Cross-browser compatibility** and responsive design expertise
+
+### **Specializations**
+- 🔹 **Frontend Architecture** - Scalable and maintainable codebases
+- 🔹 **User Experience** - Intuitive and engaging interfaces
+- 🔹 **Performance Optimization** - Fast loading and smooth interactions
+- 🔹 **Code Quality** - Clean, documented, and testable code
+- 🔹 **Team Collaboration** - Effective communication and project management
+
+---
+
+## 📚 **Currently Learning**
+- **WebAssembly** - High-performance web applications
+- **Micro Frontends** - Scalable architecture patterns
+- **Three.js** - 3D web graphics and animations
+- **Advanced TypeScript** - Type safety and advanced patterns
+- **Edge Computing** - Cloudflare Workers, Edge functions
+
+---
+
+## 🏗️ **Development Philosophy**
+
+### **Core Principles**
+1. **Clean Code** - Readable, maintainable, and well-documented
+2. **User-First** - Intuitive interfaces with excellent UX
+3. **Performance** - Fast loading and smooth interactions
+4. **Accessibility** - Inclusive design for all users
+5. **Responsive** - Seamless experience across all devices
+
+### **Workflow**
+- **Planning** - Requirement analysis and technical planning
+- **Development** - Agile methodology with iterative improvements
+- **Testing** - Comprehensive testing at all levels
+- **Deployment** - CI/CD pipelines for smooth releases
+- **Maintenance** - Ongoing support and optimization
+
+---
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 
@@ -128,47 +185,119 @@ Hello, my name is Ginny, ahihi.
 
 ## Skills
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🌐 Web Development Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![mariadb Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 
-![python Badge](https://img.shields.io/badge/Python-0A9EDC?style=flat-square&logo=Python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled--Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-## 📊 Stats
-<!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=youssefghamry" alt="youssefghamry" /> </p> -->
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=youssefghamry.youssefghamry)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux--Toolkit](https://img.shields.io/badge/Redux--Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge)
 
-<!-- LeetCode Stats Card -->
-<!-- <p align="center">
-  <a href="https://leetcode.com/youssefghamry" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=youssefghamry&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-  </a>
-</p> -->
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant--Design](https://img.shields.io/badge/Ant--Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Chakra--UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=youssefghamry&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefghamry&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge)
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefghamry&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=youssefghamry&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
 
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-3EAAAF?style=for-the-badge)
 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing--Library](https://img.shields.io/badge/Testing--Library-E33332?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge)
 
-[
-<br>
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/youssefghamry?date=01" width="600" /></a>
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge)
+
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)
+
+## 📞 **Contact & Connect**
+
+### **Professional Networks**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ghamry/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssefghamry)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+### **Direct Contact**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201030459067)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YGBrandMaker)
+
+### **Social Media**
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.fb.com/YGBrandMaker)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+---
+
+## 🎯 **Availability**
+
+### **Open To**
+- **Full-time Positions** - Senior Frontend Developer roles
+- **Contract Work** - Project-based development
+- **Consulting** - Technical guidance and architecture
+- **Mentorship** - Junior developer coaching
+
+### **Preferences**
+- **Remote Work** - Fully remote or hybrid positions
+- **Challenging Projects** - Complex problem-solving opportunities
+- **Tech-forward Companies** - Modern stack and progressive culture
+- **Team Collaboration** - Supportive and communicative environments
+
+---
+
+## 📝 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+  
+### **Let's Build Something Amazing Together!** 🚀
+
+![Visitors](https://komarev.com/ghpvc/?username=youssefghamry&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/youssefghamry?label=Follow&style=social)
+
+</div>
