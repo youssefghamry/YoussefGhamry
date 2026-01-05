@@ -1,20 +1,9 @@
 # 👋 Hello! I'm Youssef Ghamry
-### **Frontend Developer** | 6+ Years Experience | Web Enthusiast
 
 I'm passionate about creating beautiful, functional, and user-friendly web experiences. With over 6 years in web development, I specialize in modern frontend technologies and love turning complex problems into simple, elegant solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefghamry&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefghamry&layout=compact&theme=onedark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefghamry&theme=onedark&hide_border=true" />
-</div>
 
 ---
 
@@ -128,60 +117,68 @@ I'm passionate about creating beautiful, functional, and user-friendly web exper
 - **Maintenance** - Ongoing support and optimization
 
 ---
-## 🛠 Languages and Tools
-📖 I have been learning and exploring these following tools and languages
+## 🛠 Languages & Tools
+📖 Exploring, learning, and working with a wide range of technologies
 
-<div align="center"> 
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-    <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
-    <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
-    <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
-    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-    <code><a href="https://developer.apple.com/swift/" title="Swift" target="_blank"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/></a></code>
-    <code><a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/></a></code>
-    <code><a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="dart" width="40" height="40"/></a></code>
-    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
-    <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
-    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
-    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
-    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
-    <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
-    <code><a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img src="https://www.adroitlogic.com/static/assets/images/icons/spring-boot.svg" alt="springboot" width="40" height="40"/></a></code>
-    <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
-    <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
-    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
+<div align="center">
+
+<!-- Programming Languages -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/></code>
+
+<!-- Web Core -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></code>
+
+<!-- Frontend -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/></code>
+
+<!-- Backend -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/></code>
+
+<!-- Mobile -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/></code>
+
+<!-- Databases -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/></code>
+
+<!-- DevOps & Cloud -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></code>
+
+<!-- Tools -->
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40"/></code>
 
 </div>
-<h3 align="center">Software and tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,jenkins,linux,vscode,idea,figma,cloudflare,androidstudio,pr,atom,github,githubactions" />
-</p>
 
-## Future skills
-<div>
-<img src="https://www.melodev.link/icons/git.svg" width="30" height="30" title="git"/>
-<img src="https://www.melodev.link/icons/node.svg" width="30" height="30" title="nodeJS"/>
-<img src="https://www.melodev.link/icons/angular.svg" width="30" height="30" title="angular"/>
-<img src="https://www.melodev.link/icons/react.svg" width="30" height="30" title="react"/>
-<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="30" height="30" title="solidjs"/>
-<img src="https://www.melodev.link/icons/react-native.svg" width="30" height="30" title="react-native"/>
-<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="30" height="30" title="react-query"/>
-<img src="https://www.melodev.link/icons/redux.svg" width="30" height="30" title="redux"/>  
-<img src="https://www.melodev.link/icons/database.svg" width="30" height="30" title="sql"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30" height="30" title="postgres"/>
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30" height="30" title="mysql"/>
-<img src="https://www.melodev.link/icons/mongodb.svg" width="30" height="30" title="mongodb"/>
-<img src="https://www.melodev.link/icons/aws.svg" width="30" height="30" title="aws"/>
-<img src="https://www.sitespect.com/wp-content/uploads/2019/05/logo_gcp_hexagon_rgb.png" width="30" height="30" title="google cloud platform"/>
-<img src="https://www.melodev.link/icons/vercel.svg" width="30" height="30" title="vercel"/>
-<img src="https://www.melodev.link/icons/firebase.svg" width="30" height="30" title="firebase"/>
-<img src="https://www.melodev.link/icons/d3.png" width="30" height="30" title="d3"/>
-<img src="https://www.melodev.link/icons/three.png" width="30" height="30" title="threeJS"/>
-<img src="https://www.melodev.link/icons/sass.png" width="30" height="30" title="sass"/>
-</div> 
+
 
 ## Skills
 
